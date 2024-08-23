@@ -10,8 +10,7 @@ import MenuIcon from "../Assets/SVG/MenuIcon";
 import OptionIcon from "../Assets/SVG/OptionIcon";
 import ProductCard from "../components/ProductCard";
 import { productData } from "../Data/ProductData";
-import  {
-  Animated,
+import Animated,  {
   FadeInDown,
   FadeInLeft,
   FadeInRight,
